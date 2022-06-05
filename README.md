@@ -23,7 +23,7 @@ https://www.youtube.com/c/BoniekyLacerdaLeal
 
 ### Captura de tela
 
-![](./workflow.png)
+![](./app/workflow.png)
 
 ## Processo de desenvolvimento
 
